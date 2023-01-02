@@ -1,2 +1,3 @@
 # Music-PlayList
-second assignment
+This is second assignment that deals with a music playlist used in java
+
